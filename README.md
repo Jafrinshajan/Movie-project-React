@@ -1,16 +1,74 @@
-# React + Vite
+# 🎬 Movie Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A movie browsing website built with **React.js** as part of my React learning journey.
 
-Currently, two official plugins are available:
+The project focuses on building a functional and responsive movie interface while practicing React fundamentals, component-based development, state management, API integration, and routing.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+* 🎥 Browse and explore movies
+* 🔍 Search for movies
+* ⭐ Display movie ratings
+* 🎞️ Movie cards with posters and movie details
+* 📄 View individual movie details
+* 🌐 Fetch movie data using an API
+* ⚛️ Reusable React components
+* 🧭 Client-side navigation using React Router
+* 📱 Responsive user interface
+* 🎨 Custom CSS styling
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📸 Project Preview
 
-## Expanding the ESLint configuration
+![Movie Project UI](./ss1.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+* **React.js**
+* **JavaScript**
+* **HTML5**
+* **CSS3**
+* **Vite**
+* **React Router**
+* **REST API**
+
+## 🎯 Purpose
+
+This project was created as part of my journey learning **React.js**. It helped me practice building components, passing props, managing state, handling API requests, working with routes, and creating a responsive user interface.
+
+## 🤖 AI Usage
+
+**No AI was used to write or generate the project's code.**
+
+The project was built manually as part of my learning process to understand React and improve my frontend development skills.
+
+## ▶️ Run Locally
+
+Clone the repository:
+
+```bash
+git clone <your-repository-url>
+```
+
+Navigate to the project directory:
+
+```bash
+cd 20movieproject
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+The application will be available at the local URL provided by Vite.
+
+## 👨‍💻 Author
+
+**Jafrin Shajan**
